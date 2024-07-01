@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="300$" src="/banner (2).png"  />
+  <img width="100%" height="350$" src="/banner (2).png"  />
 </div>
 
 ###
@@ -36,7 +36,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="border: 2px solid; padding: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />

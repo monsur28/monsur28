@@ -28,6 +28,12 @@
   - ⚡ In my free time I am enjoying English Movies.
 </p>
 
+<h3 align="left">🔥 My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=monsur28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 10px;">
@@ -48,10 +54,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=monsur28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>

@@ -21,7 +21,7 @@
   <hr/>
   My Name is Abul Monsur and I'm a passionate web developer with a strong CSE background in creating dynamic and responsive web applications. My expertise lies in front-end technologies such as HTML, CSS, and JavaScript, and I have extensive experience with frameworks like React. I love turning complex problems into simple, beautiful, and intuitive designs. Currently, I'm focused on improving my back-end skills with Node.js and Express, and I'm always eager to learn new technologies and collaborate on exciting projects.
 </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsur28&show_icons=true&locale=en&layout=compact" alt="monsur28" /></p>
+
 <hr/>
 <h3 align="left">🛠 Languages and Tools</h3>
 <hr/>
@@ -58,8 +58,7 @@
 <h3 align="left">🔥 My Stats :</h3>
 <hr/>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://streak-stats.demolab.com?user=monsur28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monsur28&show_icons=true&locale=en&layout=compact" height="220" alt="monsur28" />
 </div>
-
-

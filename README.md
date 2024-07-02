@@ -21,8 +21,10 @@
   My Name is Abul Monsur and I'm a passionate web developer with a strong CSE background in creating dynamic and responsive web applications. My expertise lies in front-end technologies such as HTML, CSS, and JavaScript, and I have extensive experience with frameworks like React. I love turning complex problems into simple, beautiful, and intuitive designs. Currently, I'm focused on improving my back-end skills with Node.js and Express, and I'm always eager to learn new technologies and collaborate on exciting projects.
 </h3>
 
+<br/>
+<hr/>
 <h3 align="left">🛠 Languages and Tools</h3>
-
+<hr/>
 <div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />

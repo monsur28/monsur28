@@ -17,11 +17,11 @@
 <h1 align="center">Hey there 👋</h1>
 
 <h3 align="left">
-  👩‍💻 About Me <br>------------------------------------------------------------------------------------------------<br>
+  👩‍💻 About Me 
+  <hr/>
   My Name is Abul Monsur and I'm a passionate web developer with a strong CSE background in creating dynamic and responsive web applications. My expertise lies in front-end technologies such as HTML, CSS, and JavaScript, and I have extensive experience with frameworks like React. I love turning complex problems into simple, beautiful, and intuitive designs. Currently, I'm focused on improving my back-end skills with Node.js and Express, and I'm always eager to learn new technologies and collaborate on exciting projects.
 </h3>
 
-<br/>
 <hr/>
 <h3 align="left">🛠 Languages and Tools</h3>
 <hr/>
@@ -44,6 +44,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
+
+<hr/>
 
 <p align="left">
   I'm Abul Monsur from Chittagong, Bangladesh<br><br>

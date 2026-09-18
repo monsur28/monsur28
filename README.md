@@ -2,9 +2,6 @@
 
   <!-- HERO -->
   <img src="/Abul Monsur.png" width="100%" alt="Abul Monsur Banner"/>
-
-  <br><br>
-
   <img
     src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=900&color=F66824&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Developer;Building+Modern+Web+Applications;Next.js+%7C+React.js+%7C+Node.js;Turning+Ideas+Into+Digital+Products"
     alt="Typing SVG"
@@ -754,8 +751,6 @@ Let's build something useful together.
 </a>
 
 </div>
-
-<br><br>
 
 <!-- FOOTER -->
 

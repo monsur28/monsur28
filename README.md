@@ -1,45 +1,508 @@
 <div align="center">
-  <img width="100%" height="350" src="/banner (2).png" />
+
+<img src="/banner (2).png" width="100%" alt="Abul Monsur Banner"/>
+
+<br/>
+
+<a href="https://github.com/monsur28">
+  <img src="https://img.shields.io/badge/GitHub-monsur28-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/md-monsur/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/monsur_evan">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/mdmonsur28">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F66824&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;SaaS+Product+Builder;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Turning+Ideas+Into+Production+Software" alt="Typing Animation"/>
+
+<br/>
+
+<p>
+  <strong>Full Stack Developer · Software Engineer · SaaS Builder</strong>
+</p>
+
+<p>
+  I design and build modern, scalable web applications and SaaS products
+  with a focus on clean architecture, performance and great user experiences.
+</p>
+
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Abul Monsur**, a Full Stack Developer passionate about turning ideas into real-world software.
+
+I enjoy working across the entire development lifecycle — from designing interfaces and database architecture to building APIs, authentication systems, dashboards and production deployments.
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  👨‍💻 Full Stack Developer                               │
+│                                                          │
+│  🚀 Building SaaS & Business Applications               │
+│                                                          │
+│  🧠 Exploring System Design & Architecture              │
+│                                                          │
+│  ⚡ Focused on Performance & Scalability                 │
+│                                                          │
+│  🌍 Based in Bangladesh                                  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+### What I enjoy building
+
+* 🚀 SaaS platforms
+* 🏢 Business management systems
+* 📊 Admin dashboards
+* 🔌 WordPress plugins
+* 🌐 Browser extensions
+* 🔐 Authentication & authorization systems
+* 🗄️ API and database architectures
+* ⚙️ Automation tools
+
+---
+
+# 🧰 Tech Stack
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,prisma" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,nginx,firebase,linux,docker" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,photoshop" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🔐 LeadCop</h3>
+
+<p>
+<strong>Disposable Email Detection SaaS</strong>
+</p>
+
+<p>
+A SaaS platform designed to detect disposable and unwanted email addresses
+before they enter your application.
+</p>
+
+<p>
+<strong>Core Features</strong>
+</p>
+
+<ul>
+<li>Disposable Email Detection</li>
+<li>Role Account Detection</li>
+<li>TLD Validation</li>
+<li>Smart Suggestions</li>
+<li>API Validation</li>
+<li>WordPress Integration</li>
+<li>Shopify Integration</li>
+<li>Usage Analytics</li>
+</ul>
+
+<p>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>Prisma</code>
+<code>PostgreSQL</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏫 School Management</h3>
+
+<p>
+<strong>Modern School Management Platform</strong>
+</p>
+
+<p>
+A complete platform for managing academic and administrative operations
+with dedicated dashboards and portals.
+</p>
+
+<p>
+<strong>Core Modules</strong>
+</p>
+
+<ul>
+<li>Students & Teachers</li>
+<li>Academic Years</li>
+<li>Classes & Sections</li>
+<li>Attendance</li>
+<li>Exams & Results</li>
+<li>Fees</li>
+<li>Homework</li>
+<li>Notices</li>
+<li>Student Portal</li>
+<li>School Branding</li>
+</ul>
+
+<p>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>Prisma</code>
+<code>PostgreSQL</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏋️ Gym Management</h3>
+
+<p>
+<strong>Gym Operations Management System</strong>
+</p>
+
+<p>
+A business management platform designed to simplify everyday gym operations.
+</p>
+
+<ul>
+<li>Member Management</li>
+<li>Memberships</li>
+<li>Attendance & Check-in</li>
+<li>Payments</li>
+<li>Expenses</li>
+<li>Classes</li>
+<li>Workout Plans</li>
+<li>Diet Plans</li>
+<li>Financial Management</li>
+<li>Member Portal</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔌 Developer Tools</h3>
+
+<p>
+<strong>Plugins, Extensions & Automation</strong>
+</p>
+
+<p>
+I also build developer-focused products that automate repetitive tasks
+and solve specific workflow problems.
+</p>
+
+<ul>
+<li>WordPress Plugins</li>
+<li>Chrome Extensions</li>
+<li>REST APIs</li>
+<li>Automation Tools</li>
+<li>Developer Utilities</li>
+<li>Business Integrations</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏗️ What I Care About
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-monsur/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn Logo" />
-  </a>
-  <a href="https://x.com/monsur_evan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter Logo" />
-  </a>
-  <a href="https://www.facebook.com/mdmonsur28" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="Facebook Logo" />
-  </a>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### ⚡
+
+<strong>Performance</strong>
+
+Fast applications
+and optimized systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧱
+
+<strong>Architecture</strong>
+
+Clean and maintainable
+codebases
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+<strong>Security</strong>
+
+Secure authentication
+and APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+
+<strong>UX</strong>
+
+Interfaces people
+enjoy using
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
-<h1 align="center">Hello! I'm Abul Monsur 👋</h1>
+---
 
-<h3 align="left">
-  👩‍💻 About Me 
-  <hr/>
-</h3>
+# 📊 GitHub Analytics
 
-I’m a 6th-semester Computer Science and Engineering (CSE) student passionate about **web development** and working towards becoming a skilled **Software Engineer**. With hands-on experience in both front-end and back-end development, I enjoy creating scalable, user-friendly applications.<br><br>
-🚀 I have expertise in **HTML**, **CSS**, **Tailwind CSS**, **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **Firebase**, and **NextAuth**.<br><br>
-💡 My best team project is **BookNest**, an e-commerce platform for books where I contributed as a **full-stack developer**. My **top individual project** is **MedCamp**, a platform streamlining camp management for medical participants.<br><br>
-🎯 I am constantly exploring new tools and frameworks, pushing myself to build better applications and contribute to meaningful projects.<br><br>
-⚡ Fun fact: In my downtime, I love watching English films and staying updated on tech trends.
+<div align="center">
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-  <hr/>
-<h3 align="left">🔥 My GitHub Stats:</h3>
-<hr/>
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <img src="https://streak-stats.demolab.com?user=monsur28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=monsur28&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+height="180"
+alt="GitHub Stats"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsur28&layout=compact&theme=github_dark&hide_border=true"
+height="180"
+alt="Top Languages"
+/>
+
 </div>
 
-<hr/>
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monsur28&show_icons=true&locale=en&layout=compact" height="220" alt="Most Used Languages" />
+<br/>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=monsur28&theme=github-dark-blue&hide_border=true&border_radius=10"
+width="80%"
+alt="GitHub Streak"
+/>
+
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=monsur28&theme=github-dark&hide_border=true&area=true"
+width="100%"
+alt="Contribution Graph"
+/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/monsur28/monsur28/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+🚀
+
+<br/>
+
+<strong>SaaS Products</strong>
+
+</td>
+
+<td align="center">
+
+🏗️
+
+<br/>
+
+<strong>System Design</strong>
+
+</td>
+
+<td align="center">
+
+⚡
+
+<br/>
+
+<strong>Scalability</strong>
+
+</td>
+
+<td align="center">
+
+🔐
+
+<br/>
+
+<strong>Security</strong>
+
+</td>
+
+<td align="center">
+
+☁️
+
+<br/>
+
+<strong>Cloud</strong>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+```text
+Ideas
+  │
+  ▼
+Architecture
+  │
+  ▼
+Development
+  │
+  ▼
+Testing
+  │
+  ▼
+Deployment
+  │
+  ▼
+Production 🚀
+```
+
+---
+
+# 💡 Development Philosophy
+
+<div align="center">
+
+### "Build simple. Build scalable. Build things people actually need."
+
+</div>
+
+<p align="center">
+Good software isn't only about writing code.
+<br/>
+It's about understanding the problem,
+designing the right solution,
+and building something reliable.
+</p>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/monsur28">
+<img src="https://img.shields.io/badge/GitHub-monsur28-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-monsur/">
+<img src="https://img.shields.io/badge/LinkedIn-Abul%20Monsur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/monsur_evan">
+<img src="https://img.shields.io/badge/X-monsur__evan-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/mdmonsur28">
+<img src="https://img.shields.io/badge/Facebook-mdmonsur28-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=monsur28&label=Profile%20Views&color=F66824&style=flat-square"
+alt="Profile Views"
+/>
+
+<br/><br/>
+
+<strong>Thanks for visiting my profile! 👋</strong>
+
+<br/>
+
+<sub>Let's build something meaningful together.</sub>
+
+</div>

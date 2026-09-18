@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/banner (2).png" width="100%" alt="Abul Monsur Banner"/>
+<img src="/Abul Monsur.png" width="100%" alt="Abul Monsur Banner"/>
 
 <br/>
 
